@@ -141,7 +141,7 @@ p.note { display: none; }
 
 
 
-<h2><span class="yellow">ちなみにカレンダーが2種類飾られてました<br>1枚目はチェンライ県知事カレンダー</span></h2>
+<h2><span class="yellow">ちなみにカレンダーが2種類飾られてました<br>1枚目はチェンライ県知事カレンダー<br>撮影時に表情を和らげないのがタイのおじ様たちの慣習？！</span></h2>
 <a href="20250115_043.JPG" target="_blank"><img src="20250115_043.JPG" alt="サンプル画像" width="900" /></a>
 
 <h2><span class="yellow">2枚目は王室カレンダー</span></h2>
