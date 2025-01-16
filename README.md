@@ -223,17 +223,14 @@ p.note { display: none; }
 <h2><span class="yellow">ママ達がお買い物中はTVの前で待ちますが、<br>同じ状況の子が集まりました</span></h2>
 <a href="20250115_040.JPG" target="_blank"><img src="20250115_040.JPG" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow">日が暮れると惑星達が夜空を賑やかにしてます</span></h2>
+<h2><span class="yellow">日が暮れると惑星達が夜空を賑やかにしてます<br>金星と土星がランデブー、すぐ上には魚座の頭の部分</span></h2>
 <a href="20250115_041.JPG" target="_blank"><img src="20250115_041.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">南の空には冬の星座達と冬の大三角形に木星と火星が加わって超大三角形！</span></h2>
 <a href="20250115_042.JPG" target="_blank"><img src="20250115_042.JPG" alt="サンプル画像" width="900" /></a>
 
 
-<h2><span class="yellow">何度見てもよく分からないビニール袋の閉じ方</span></h2>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/AbRkTtGDRFs?si=w3ytSmFNpLk7oYom" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
-<h2><span class="yellow">夜の10時過ぎ、日本では見るのが難しい「カノープス」がお空に輝きました<br>宇都宮でも南の空が開けているところでは地平線ギリギリに見えるはずですが、この高さで見たのは初めてです</span></h2>
-<a href="20250114_016.JPG" target="_blank"><img src="20250114_016.JPG" alt="サンプル画像" width="900" /></a>
 
 
 <br><br><br>
