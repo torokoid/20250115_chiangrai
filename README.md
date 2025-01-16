@@ -234,7 +234,7 @@ p.note { display: none; }
 
 
 <br><br><br>
-<h2><span class="yellow">以上、今回はタイの超ローカル画像集でしたが、ここまで観ていただきありがとうございました。</span></h2>
+<h2><span class="yellow">以上、今回も取り留めのない画像集でしたが、ここまで観ていただきありがとうございました。</span></h2>
 
 <br><br><br><br><br>
 <h2><span class="yellow">
