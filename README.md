@@ -129,8 +129,9 @@ p.note { display: none; }
 
 
 <h2><span class="yellow">朝は庭のお花を眺めてましたが、<br>昨日に引き続き知り合いのお宅でお昼をいただきました</span></h2>
-
 <a href="20250115_001.JPG" target="_blank"><img src="20250115_001.JPG" alt="サンプル画像" width="900" /></a>
+
+<h2><span class="yellow">2日連続でこちらのお宅にお邪魔します</span></h2>
 <a href="20250115_002.JPG" target="_blank"><img src="20250115_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250115_003.JPG" target="_blank"><img src="20250115_003.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20250115_004.JPG" target="_blank"><img src="20250115_004.JPG" alt="サンプル画像" width="900" /></a>
